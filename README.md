@@ -10,7 +10,7 @@ Clone the project to *git_clone_dir*:
 git clone https://github.com/guilhermeando/getting-cleaning-data-course-project.git
 ```
 
-Download [FUCI dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "FUCI dataset") and extract to *git_clone_dir*.
+Download [FUCI dataset](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip "FUCI dataset") and extract the content of the folder */UCI HAR Dataset* to *git_clone_dir*.
 
 
 In RStudio or R console:
